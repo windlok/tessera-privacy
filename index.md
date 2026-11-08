@@ -2,8 +2,8 @@
 
 **Yürürlük tarihi / Effective date:** 8 Kasım 2026 / 8 November 2026
 
-**Geliştirici / Developer:** [GELİŞTİRİCİ ADI / DEVELOPER NAME]
-**İletişim / Contact:** [E-POSTA ADRESİNİZ / YOUR EMAIL ADDRESS]
+**Geliştirici / Developer:** MutaLabs
+**İletişim / Contact:** tastay2@gmail.com
 
 > Bu politika Google Play'de yayımlanan Tessera Anatolia uygulaması için
 > geçerlidir. Bu metni yayımlamadan önce köşeli parantezli alanları doldurun.
@@ -120,7 +120,7 @@ yukarıdaki iletişim adresinden bize ulaşabilir.
 Bulunduğunuz ülkeye göre kişisel verilerinize erişme, düzeltme, silme,
 işlemeyi kısıtlama veya itiraz etme haklarınız olabilir. Cihazdaki verileri
 silmek için uygulamayı kaldırmanız yeterlidir. Diğer talepler için
-[E-POSTA ADRESİNİZ] adresinden bize yazabilirsiniz. EEA/UK'de yerel veri koruma
+tastay2@gmail.com adresinden bize yazabilirsiniz. EEA/UK'de yerel veri koruma
 otoritesine şikâyet hakkınız saklıdır.
 
 ### 11. Değişiklikler
@@ -130,7 +130,7 @@ sayfada yayımlanır; önemli değişikliklerde yürürlük tarihi güncellenir.
 
 ### 12. İletişim
 
-Sorularınız için: [E-POSTA ADRESİNİZ]
+Sorularınız için: tastay2@gmail.com
 
 ---
 
@@ -243,7 +243,7 @@ questions about their children's data.
 Depending on your country, you may have the right to access, correct, delete,
 restrict or object to the processing of your personal data. To delete on-device
 data, simply uninstall the app. For other requests, contact
-[YOUR EMAIL ADDRESS]. If you are in the EEA/UK, you also have the right to
+tastay2@gmail.com. If you are in the EEA/UK, you also have the right to
 complain to your local data protection authority.
 
 ### 11. Changes
@@ -253,4 +253,4 @@ published on this page; the effective date is updated for material changes.
 
 ### 12. Contact
 
-Questions: [YOUR EMAIL ADDRESS]
+Questions: tastay2@gmail.com
